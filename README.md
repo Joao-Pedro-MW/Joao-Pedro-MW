@@ -1,6 +1,6 @@
 <h1 align="center">👨‍💻 print("Hello Word!") </h1> 
 
-<p> Olá, me chamo <b> João Pedro </b> e estou cursando, o ensino médio profissionalizante em <b> Técnico de informática. </b>
+<p align="center"> Olá, me chamo <b> João Pedro </b> e estou cursando o ensino médio profissionalizante em <b> Técnico de informática. </b> </p>
 
 <h2> De onde sou? </h2>
 <p> 👣 Paraná - Brasil </p>
