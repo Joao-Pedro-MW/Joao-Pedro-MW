@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 print("Hello Word!") </h1> 
+<h1 align="center">👨‍💻 print("Bem-Vindo!") </h1> 
 
 <p align="center"> Olá, me chamo <b> João Pedro </b> e estou cursando o ensino médio profissionalizante em <b> Técnico de informática. </b> </p>
 
