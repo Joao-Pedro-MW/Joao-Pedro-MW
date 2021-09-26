@@ -14,10 +14,3 @@
 <h3> Você me encontra aqui no GitHub mas também estou no <a href="https://www.codewars.com/users/Joao-Pedro-MW"> Codewars: </h3>
 <img src="https://www.codewars.com/users/Joao-Pedro-MW/badges/large" height=30> 
 <h3> Ainda sobre Github dá um olhadinha aí: <br><br> <img src="https://github-readme-stats.vercel.app/api?username=Joao-Pedro-MW" </h3>
-<h2> Sobre mim:  </h2>
-<p> Sempre gostei muito de matemática, puzzles e jogos lógicos 🧐.Então, conheci a programação durante o curso e comecei a aprender
-Python por ser uma linguagem mais fácil, mais simples e que todos falavam bem, me identifiquei na muito na área de programação. E sempre estou a procura de projetos, desafios, pessoas que me ajudam e que me motivam.</p>
-<p> Gosto de programar pois isso me faz sentir em um jogo, e que cada desafio que eu faço e consigo 'ganhar' estou mais perto de meu sucesso. </p>
-
-
-
