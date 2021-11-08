@@ -3,7 +3,7 @@
 <p align="center"> Olá, me chamo <b> João Pedro </b> e estou cursando o ensino médio profissionalizante em <b> Técnico de informática. </b> </p>
 
 <h2> De onde sou? </h2>
-<p> 👣 Paraná - Brasil </p>
+<p> 👣Brasil </p>
 <h3> Sobre Tech e conhecimento: <h3>
   <h6> Sempre aprendendo e pesquisando sobre: <h6>
 <h3> </h3>
