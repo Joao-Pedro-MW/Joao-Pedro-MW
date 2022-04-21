@@ -8,8 +8,8 @@
   <h6> Sempre aprendendo e pesquisando sobre: <h6>
 <h3> </h3>
 <p> <img src="https://www.python.org/static/opengraph-icon-200x200.png" height=30> Python </p>
-<p> <img src="https://image.flaticon.com/icons/png/512/226/226777.png" height=30> Java </p>
-<p> <img src="https://image.flaticon.com/icons/png/512/174/174854.png" height=25> HTML </p>
+<p> <img src="https://www.ativasoft.com.br/blog/wp-content/uploads/2018/01/java_icon.png" height=40> Java </p>
+<p> <img src="https://p.kindpng.com/picc/s/171-1718053_html-css-javascript-png-transparent-png.png" height=30>&nbsp HTML,CSS, Javascript</p>
 
 <h3> Você me encontra aqui no GitHub mas também estou no <a href="https://www.codewars.com/users/Joao-Pedro-MW"> Codewars: </h3>
 <img src="https://www.codewars.com/users/Joao-Pedro-MW/badges/large" height=30> 
