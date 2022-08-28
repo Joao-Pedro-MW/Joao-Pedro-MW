@@ -1,6 +1,5 @@
-<h1 align="center">print(" Bem-Vindx ao meu Github :D ")</h1> 
+<h1 align="center">print(" Bem-Vindx ao meu Github :D ")</h1>
 <p> Olá, sou o João Pedro e estudo programação desde janeiro de 2020, além disso sou interessado na área de Data Science e IA/ML </p>
-<p> De onde sou? Brasil </p>
 <p> Sempre estudando e pesquisando sobre: <p>
 <img align="center" alt="PY" height="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="JS" height="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -13,6 +12,6 @@
 <br><br>
 <div align="center">
   <a href="https://github.com/Joao-Pedro-MW">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-Pedro-MW&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Pedro-MW&layout=compact&langs_count=7&theme=gotham"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-Pedro-MW&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Pedro-MW&layout=compact&langs_count=7&theme=gotham"/>
 </div>
