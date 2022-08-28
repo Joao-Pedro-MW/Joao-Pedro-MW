@@ -11,4 +11,5 @@
 <p> Você me encontra aqui no GitHub mas também estou no <a href="https://www.codewars.com/users/Joao-Pedro-MW"> Codewars: </p>
 <img src="https://www.codewars.com/users/Joao-Pedro-MW/badges/large" height=30> 
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=Joao-Pedro-MW&show_icons=true&theme=codeSTACKr">
+<img src="https://github-readme-stats.vercel.app/api?username=Joao-Pedro-MW&show_icons=true&theme=codeSTACKr" height=180>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Pedro-MW&layout=compact&langs_count=7&theme=codeSTACKr" height=180>
