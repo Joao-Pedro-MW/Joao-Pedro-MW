@@ -10,8 +10,7 @@
 <p> Você me encontra aqui no GitHub mas também estou no <a href="https://www.codewars.com/users/Joao-Pedro-MW"> Codewars: </p>
 <img src="https://www.codewars.com/users/Joao-Pedro-MW/badges/large" height=30> 
 <br><br>
-<div align="center">
+<div>
   <a href="https://github.com/Joao-Pedro-MW">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-Pedro-MW&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Pedro-MW&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Pedro-MW&layout=compact&langs_count=7&theme=gotham"/>
 </div>
