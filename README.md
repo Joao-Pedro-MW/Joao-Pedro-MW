@@ -1,5 +1,5 @@
 <h1 align="center">print(" Olá humano, este é o meu Github :D ")</h1>
-<p> Olá, sou o João Pedro e estudo programação desde janeiro de 2020, um técnico de T.I. que se forma em 2023 apaixonado por matemática em áreas de Data Science e IA/ML. </p>
+<p> Olá, sou o João Pedro e estudo programação desde janeiro de 2020, um técnico de T.I. que se forma em 2023 apaixonado por matemática e nas áreas de Data Science e IA/ML. </p>
 <p>Atualmente estou trabalhando em meu projeto de TCC que vc pode olhar nos meus repositóris, o nome dele é NANO-G</p>
 <p> Sempre estudando e pesquisando sobre: <p>
 <img align="center" alt="PY" height="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
